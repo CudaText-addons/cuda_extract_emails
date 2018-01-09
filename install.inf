@@ -2,7 +2,8 @@
 title=Extract Emails
 desc=Finds emails in current file, puts them to new tab
 type=cudatext-plugin
-subdir=cuda_emails
+subdir=cuda_extract_emails
+homepage=http://github.com/cudatext-addons/cuda_extract_emails
 
 [item1]
 section=commands
